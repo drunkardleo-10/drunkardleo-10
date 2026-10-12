@@ -19,6 +19,14 @@ I build backend services, apps, and deep learning.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
+**[Notchy](https://github.com/drunkardleo-10/Notchy)** &nbsp;·&nbsp; <samp>swift</samp><br>
+A minimal macOS dynamic island styled notch.<br>
+3 stars, 0 forks, and actively maintained.
+
+**[Notey](https://github.com/drunkardleo-10/Notey)** &nbsp;·&nbsp; <samp>swift</samp><br>
+A minimal macOS application to keep notes and pin it as a dock.<br>
+1 star, 0 forks, and actively maintained.
+
 **[isa](https://github.com/drunkardleo-10/isa)** &nbsp;·&nbsp; <samp>swift</samp><br>
 A minimal macOS browser.<br>
 4 stars, 0 forks, and actively maintained.
